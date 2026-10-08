@@ -1,0 +1,35 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Environment/secrets
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Audio/video files
+*.m4a
+*.mp4
+*.mp3
+*.wav
+
+# Generated/downloaded data
+downloades/
+downloads/
+vector_db/
+
+# Logs
+*.log
+
+# Python cache
+.cache/

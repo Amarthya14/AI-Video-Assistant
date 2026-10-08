@@ -1,0 +1,80 @@
+# ==============================
+# Streamlit UI
+# ==============================
+streamlit
+
+# ==============================
+# YouTube Video / Audio Download
+# ==============================
+yt-dlp[default]
+
+# ==============================
+# Local Whisper Transcription
+# ==============================
+openai-whisper
+torch
+torchaudio
+
+# ==============================
+# Audio / Video Processing
+# ==============================
+ffmpeg-python
+pydub
+
+# ==============================
+# Hindi -> English Translation
+# ==============================
+transformers
+sentencepiece
+
+# ==============================
+# LangChain / LLM
+# ==============================
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+langchain-mistralai
+
+# ==============================
+# Mistral API
+# ==============================
+mistralai
+
+# ==============================
+# Hugging Face
+# ==============================
+huggingface-hub
+sentence-transformers
+
+# ==============================
+# RAG / Vector Database
+# ==============================
+chromadb
+langchain-chroma
+
+# ==============================
+# Numerical / Data Processing
+# ==============================
+numpy
+pandas
+
+# ==============================
+# PDF / TXT Export
+# ==============================
+reportlab
+
+# ==============================
+# Environment Variables / API Keys
+# ==============================
+python-dotenv
+
+# ==============================
+# HTTP / API
+# ==============================
+requests
+
+# ==============================
+# Utilities
+# ==============================
+tqdm
