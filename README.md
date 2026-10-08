@@ -174,10 +174,7 @@ Instead of manually searching through long videos, users can ask questions and r
 👥 Multi-user support
 💾 Persistent vector database
 
-👨‍💻 Author
-Jaikeerthi S
-B.Tech – Artificial Intelligence & Machine Learning
-University of Visvesvaraya College of Engineering (UVCE), Bangalore
+
 
 ⭐ Support
 If you find this project useful, please consider giving the repository a ⭐ on GitHub.
